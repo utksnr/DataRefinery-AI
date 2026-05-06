@@ -17,8 +17,3 @@
 - **Frontend:** HTML5, Tailwind CSS (Glassmorphism UI)
 - **Deployment:** Uvicorn
 
-## 📦 Installation & Usage
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/DataRefinery-AI.git](https://github.com/yourusername/DataRefinery-AI.git)
